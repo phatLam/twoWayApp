@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">twoWayApp</string>
+    <string name="start">Start</string>
+    <string name="stop">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
+    <string name="sets_format">Sets: %d/%d</string>
+    <string name="prefs_timePerWorkSet">SHARED_PREFS_TIMEPERWORKSET</string>
+    <string name="prefs_timePerRestSet">SHARED_PREFS_TIMEPERRESTSET</string>
+    <string name="prefs_numberOfSets">SHARED_PREFS_NUMBEROFSETS</string>
+</resources>
